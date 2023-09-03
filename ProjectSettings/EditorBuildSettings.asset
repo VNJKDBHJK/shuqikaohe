@@ -1,0 +1,161 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/game/0000.unity
+    guid: 134518a1dcc865b4297140b8c1d48acf
+  - enabled: 1
+    path: Assets/game/0101.unity
+    guid: 5ba5252babea2af4f88815280c3ee8c3
+  - enabled: 1
+    path: Assets/game/Sofa.unity
+    guid: 97e5b4e3051c03f48826e0e3c868facb
+  - enabled: 1
+    path: Assets/game/Tele.unity
+    guid: b33d350f3d925674b954b0054966231f
+  - enabled: 1
+    path: Assets/game/0101DrawerR.unity
+    guid: 7c1afa00933dfbc4e8016ef2973c9b9f
+  - enabled: 1
+    path: Assets/game/Drawer.unity
+    guid: df43bd6c8ce03904b954e88a45ad2a48
+  - enabled: 1
+    path: Assets/game/Case0101Left.unity
+    guid: 230c8ffa2dd215641a68ca7aa900ae6c
+  - enabled: 1
+    path: Assets/game/Book.unity
+    guid: 274e65dcdb9accf4f9388b4cea3a7eba
+  - enabled: 1
+    path: Assets/game/Picture.unity
+    guid: 5f45987555b606b4fafac80d97029715
+  - enabled: 1
+    path: Assets/game/Picture1.unity
+    guid: e7ea2ed8ee7b6b041be35172c52ab39e
+  - enabled: 1
+    path: Assets/game/Picture2.unity
+    guid: 4611910e5dcfd9740b114211f50d0a55
+  - enabled: 1
+    path: Assets/game/Window.unity
+    guid: 86d1ea61020b9304ab6b27fc66c5dfc7
+  - enabled: 1
+    path: Assets/game/ID.unity
+    guid: 8242af92999c3d94488caf6237c6396d
+  - enabled: 1
+    path: Assets/game/YaoShui.unity
+    guid: 900ba61761c83a640a33df4166438ef8
+  - enabled: 1
+    path: Assets/game/SomePlace.unity
+    guid: c140077ba9f2b5b4daff876b4d08b678
+  - enabled: 1
+    path: Assets/game/0102.unity
+    guid: 632d97f55e1d7a041b8fa5340686e63f
+  - enabled: 1
+    path: Assets/game/ChairIn0102.unity
+    guid: 8ba0f369626149f4c99f07cc5b12959f
+  - enabled: 1
+    path: Assets/game/0102DrawerR.unity
+    guid: b6e472a39e4ed764ba68718fcac032c6
+  - enabled: 1
+    path: Assets/game/0102DrawerL.unity
+    guid: fd1f3fa3a4db89144ba9c613395c1bae
+  - enabled: 1
+    path: Assets/game/Window0102.unity
+    guid: 438065ca86966c44eb185887bffe4bfa
+  - enabled: 1
+    path: Assets/game/Cage.unity
+    guid: 6c670f5c223ac2c4eb182d0a78357d15
+  - enabled: 1
+    path: Assets/game/Lamp.unity
+    guid: 269306349998e0846aa963fad266d767
+  - enabled: 1
+    path: Assets/game/PictureToPick.unity
+    guid: 3e09e906d61917f4fb7855a082b290da
+  - enabled: 1
+    path: Assets/game/0103.unity
+    guid: 2483e9e50b35db64887583670d72188a
+  - enabled: 1
+    path: Assets/game/0103Window.unity
+    guid: 609ca12291e6643449fb3443f261af3c
+  - enabled: 1
+    path: Assets/game/Clock.unity
+    guid: a573280b1cfb53e4b8397f4ed630691b
+  - enabled: 1
+    path: Assets/game/fridge.unity
+    guid: 0896530fea6cba1438b112cd4839853d
+  - enabled: 1
+    path: Assets/game/tip.unity
+    guid: 7c06efeee05c8064ba7c0c095f4a3854
+  - enabled: 1
+    path: Assets/game/luzi.unity
+    guid: 7568735afe851af4e894af7daa2844c1
+  - enabled: 1
+    path: Assets/game/fish.unity
+    guid: 99c6360850d50e04da3da156e1a7dd57
+  - enabled: 1
+    path: Assets/game/kitchen.unity
+    guid: 90ecd7c98813779489291db2680d1255
+  - enabled: 1
+    path: Assets/game/Zhazhi.unity
+    guid: ea88226a7e643374cbdcd03d2996c792
+  - enabled: 1
+    path: Assets/game/Table.unity
+    guid: dfe958fcf6140a940b105675ed6016ea
+  - enabled: 1
+    path: Assets/game/0104.unity
+    guid: 5ae8f1789d57d6f42a0639b87df8b75b
+  - enabled: 1
+    path: Assets/game/0104Sofa.unity
+    guid: 174252329e8e5fd41908ad3f2c38908e
+  - enabled: 1
+    path: Assets/game/Len.unity
+    guid: 5240603d1babc0b4c96b90473b84e027
+  - enabled: 1
+    path: Assets/game/LWOOD.unity
+    guid: 4e4f3d465eb6f6a4ca18d03df7b043c0
+  - enabled: 1
+    path: Assets/game/bookshelf.unity
+    guid: 4ad3c09941cf5314f8dc5220c606ad83
+  - enabled: 1
+    path: Assets/game/mirror.unity
+    guid: 270f1241f2481884fa9cb98b241dac1f
+  - enabled: 1
+    path: Assets/game/0104DrawerR.unity
+    guid: 0341548cbde1b7d4baf40433599d5793
+  - enabled: 1
+    path: Assets/game/0104floor.unity
+    guid: 86878be4ad7c16048ab0a3697c9a2c52
+  - enabled: 1
+    path: Assets/game/phoneNumber.unity
+    guid: 0cd0bfc460baf5f4bbfb8ec8c6ce69c0
+  - enabled: 1
+    path: Assets/game/1000.unity
+    guid: ec65f6403fa3f5441a2547df7904404c
+  - enabled: 1
+    path: Assets/game/2000.unity
+    guid: 429c4bc16e5a0904b92faf40d500d45c
+  - enabled: 1
+    path: Assets/game/OutSide.unity
+    guid: b95d2a96ff1ce1d45839d0a4e3492848
+  - enabled: 1
+    path: Assets/game/01001.unity
+    guid: d89863a7bcc422b4cbc80b7cc5300eca
+  - enabled: 1
+    path: Assets/game/0201.unity
+    guid: 4ef587f0478d11944a25e5946e997f4e
+  - enabled: 1
+    path: Assets/game/0202.unity
+    guid: a8c6c0f751cb5e84bb3103bbd15f3598
+  - enabled: 1
+    path: Assets/game/0203.unity
+    guid: 4ed36c23b6176f041bbfe9a80404b945
+  - enabled: 1
+    path: Assets/game/0204.unity
+    guid: 9e87a346bafdc1348afa028af8de7e38
+  m_configObjects: {}

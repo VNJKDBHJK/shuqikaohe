@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d61ba888e1ba02541ba38abd740f4ee5, type: 3}
+  m_Name: battery
+  m_EditorClassIdentifier: 
+  itremName: battery
+  itemImage: {fileID: -693149282, guid: 02ffd3f2b48ab3f4b810c78099db2a03, type: 3}
+  itemHeld: 1
+  itemInfo: battery
+  equipt: 0
+  prefeb: {fileID: 8191268315121658149, guid: 022e02c39cdea1d4486f1c019a496a43, type: 3}

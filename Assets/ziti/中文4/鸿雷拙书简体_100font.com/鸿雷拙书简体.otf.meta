@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: b3bd97ca5c725a543a15de5b45081724
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - HongLeiZhuoShu
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: f07764b12cd6e1c4d86e3cc2b538097f, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

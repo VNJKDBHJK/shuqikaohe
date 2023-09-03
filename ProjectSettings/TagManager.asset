@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - ball
+  - ground
+  - Tag
+  - BOX
+  - Tag1
+  - Tag2
+  - Button
+  - Collect
+  - BagButton
+  - use
+  - greenyaoshui
+  - redyaoshui
+  - blueyaoshui
+  - Pictu
+  - Pictur
+  - Picture
+  - Pic1
+  - Pic2
+  - Pic3
+  - Pic4
+  - Pic5
+  - Pic6
+  - Click
+  - Exit
+  - PIC
+  - fish
+  - fire
+  - tab
+  - cup
+  - music
+  - Control
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - ground
+  - 
+  - Wall
+  - Box
+  - hitLayer
+  - phoneNumber
+  - item
+  - TurnTo
+  - Pic
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Grid
+    uniqueID: 217968201
+    locked: 0
+  - name: player
+    uniqueID: 2514836085
+    locked: 0
+  - name: ground
+    uniqueID: 2541960399
+    locked: 0

@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 9936b3ea0a80d3c4783ce1f68a43a8ec
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: 0
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Crunchyfont
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 1a5c128548549da49827601ff4667849, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
